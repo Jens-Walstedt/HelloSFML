@@ -26,6 +26,7 @@ int main()
 
     // Assign the actual message
     message.setString("Hello world");
+    message.setString("Changed!");
 
     // Make it really big
     message.setCharacterSize(100);
